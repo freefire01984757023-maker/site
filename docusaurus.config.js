@@ -13,6 +13,10 @@ module.exports = {
       defaultMode: 'dark',
       disableSwitch: true,
     },
+    gtag: {
+      trackingID: 'G-RFRXGS1LYD',
+      anonymizeIP: true,
+    },
     navbar: {
       title: 'localhost.run',
       logo: {
